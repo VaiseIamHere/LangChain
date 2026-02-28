@@ -1,5 +1,6 @@
 {
     "code-runner.executorMap": {
         "python": "uv run \"$fullFileName\""
-    }
+    },
+    "postman.settings.dotenv-detection-notification-visibility": false
 }
